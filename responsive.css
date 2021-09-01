@@ -1,0 +1,498 @@
+@media all and (max-width: 1000px) {
+
+    h1 {
+        font-size: 64px;
+    }
+
+    h2 {
+        font-size: 48px;
+    }
+
+    h3 {
+        font-size: 36px;
+    }
+
+    h4 {
+        font-size: 24px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .header-right a {
+        font-size: medium;
+        padding: 0 10px;
+    }
+
+    .header-right {
+        margin-right: 0px;
+    }
+
+    .top-wrapper {
+        padding: 100px 0 150px 0;
+        border-radius: 100px;
+        margin-top: 150px;
+    }
+
+    .timer-wrapper {
+        bottom: 0.5%;
+    }
+
+    .white-container {
+        margin-top: 100px;
+        padding: 50px 0 50px 0;
+    }
+
+    .iscc-def {
+        height: 800px;
+    }
+
+    .iscc-def-purp {
+        margin-top: -50px;
+    }
+
+    .iscc-def-text {
+        width: 60%;
+        padding: 0 2em 0 2em;
+    }
+
+    .regist-req h3 {
+        font-size: 46px;
+        margin-bottom: 40px;
+    }
+
+    .light-purple-card p {
+        font-size: 22px;
+        margin-left: 18%;
+    }
+
+    .light-purple-card {
+        margin-bottom: 40px;
+        height: 160px;
+    }
+
+    .big-container {
+        border-radius: 100px 100px 0 0;
+    }
+
+    .event-details h2 {
+        padding-top: 100px;
+    }
+
+    .rundown {
+        width: 80%;
+        margin-top: 50px;
+    }
+
+    .bubbles {
+        margin-top: 100px;
+    }
+
+    .bubble {
+        margin-top: 80px;
+        width: 90%;
+        height: 380px;
+        border-radius: 60px;
+    }
+
+    .bubble-text {
+        padding-top: 10px;
+    }
+
+    .bubble p {
+        margin-top: 20px;
+        padding: 0 2em 0 2em;
+    }
+
+    .img-right {
+        margin-top: -430px;
+    }
+
+    .img-left {
+        float: left;
+        margin-top: -50px;
+    }
+
+    .final {
+        height: 600px;
+    }
+    
+    .final-content {
+        padding: 250px 3em 0 3em;
+    }
+    
+    .final-content p {
+        font-size: 22px;
+        margin-top: 20px;
+    }
+    
+    .segements {
+        margin-top: 80px;
+        padding: 50px 0 50px 0;
+        margin-left: auto;
+        margin-right: auto;
+        display: table;
+    }
+
+    .card {
+        padding-bottom: 80px;
+        height: 100px;
+        border-radius: 40px;
+        width: 80%;
+        float: none;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .card img {
+        margin-top: -70px;
+        margin-left: -20px;
+        height: 70px;
+    }
+    
+    .card p {
+        padding: 0 1em 0 3em;
+        text-align: left;
+    }
+    
+
+    .sponsorship {
+        margin-top: 200px;
+    }
+    
+    .sponsorships img {
+        margin-top: 50px;
+        width: 20%;
+    }
+    
+    .table-logo img {
+        margin-top: 50px;
+        margin-left: 10px;
+        margin-right: 10px;
+        width: 25%;
+    }
+    
+    .media-partners {
+        margin-top: 150px;
+        margin-bottom: 200px;
+    }
+
+    .sponsorship h1 {
+        font-size: 54px;
+    }
+
+    .media-partners h1 {
+        font-size: 54px;
+    }
+
+
+    footer {
+        padding: 40px 0 40px 0;
+    }
+    
+    .socmed {
+        padding: 0 0 40px 0;
+    }
+    
+    .contact-us {
+        margin-left: 5%;
+    }
+
+    .basis-logo {
+        width: 35%;
+    }
+    
+    .collab-logo {
+        width: 20%;
+        margin-bottom: 30px;
+    }
+    
+    .binus-logo {
+        width: 35%;
+    }
+    
+    .logos img {
+        padding: 0 2em 0 2em;
+    }
+    
+    .contact-person {
+        margin-top: 40px;
+    }
+
+    .contact-person ul {
+        width: 50%;
+        font-size: medium;
+    }
+    
+    .contact-person h4 {
+        font-size: 24px;
+    }
+
+    [class^=btn-] { 
+        width: 60%;
+    }
+
+    .btn-6 {
+        font-size: 50px;
+        line-height: 180px;
+        height: 180px;
+    }
+
+
+}
+
+@media all and (max-width: 670px) {
+
+
+    h1 {
+        font-size: 18px;
+    }
+
+    h2 {
+        font-size: 14px;
+    }
+
+    h3 {
+        font-size: 13px;
+    }
+
+    h4 {
+        font-size: 12px;
+    }
+
+    p {
+        font-size: 9px;
+    }
+
+    header {
+        height: 80px;
+        background-color: #281660;
+        font-size: 15px;
+    }
+
+    .header-right a {
+        line-height: 80px;
+        padding: 0 10px;
+    }
+
+    .top-wrapper {
+        padding: 50px 0 50px 0;
+        border-radius: 50px;
+        margin-top: 100px;
+        width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .white-container {
+        margin-top: 100px;
+        padding: 50px 0 50px 0;
+    }
+
+    .iscc-def {
+        height: 800px;
+    }
+
+    .iscc-def-purp {
+        margin-top: -50px;
+    }
+
+    .iscc-def-text {
+        width: 60%;
+        padding: 0 2em 0 2em;
+    }
+
+    .regist-req h3 {
+        font-size: 46px;
+        margin-bottom: 40px;
+    }
+
+    .light-purple-card p {
+        font-size: 22px;
+        margin-left: 18%;
+    }
+
+    .light-purple-card {
+        margin-bottom: 40px;
+        height: 160px;
+    }
+
+    .big-container {
+        border-radius: 100px 100px 0 0;
+    }
+
+    .event-details h2 {
+        padding-top: 100px;
+    }
+
+    .rundown {
+        width: 80%;
+        margin-top: 50px;
+    }
+
+    .bubbles {
+        margin-top: 100px;
+    }
+
+    .bubble {
+        margin-top: 80px;
+        width: 90%;
+        height: 380px;
+        border-radius: 60px;
+    }
+
+    .bubble-text {
+        padding-top: 10px;
+    }
+
+    .bubble p {
+        margin-top: 20px;
+        padding: 0 2em 0 2em;
+    }
+
+    .img-right {
+        margin-top: -430px;
+    }
+
+    .img-left {
+        float: left;
+        margin-top: -50px;
+    }
+
+    .final {
+        height: 600px;
+    }
+    
+    .final-content {
+        padding: 250px 3em 0 3em;
+    }
+    
+    .final-content p {
+        font-size: 22px;
+        margin-top: 20px;
+    }
+    
+    .segements {
+        margin-top: 80px;
+        padding: 50px 0 50px 0;
+        margin-left: auto;
+        margin-right: auto;
+        display: table;
+    }
+
+    .card {
+        padding-bottom: 80px;
+        height: 100px;
+        border-radius: 40px;
+        width: 80%;
+        float: none;
+        margin-top: 40px;
+    }
+    
+    .card img {
+        margin-top: -70px;
+        margin-left: -20px;
+        height: 70px;
+    }
+    
+    .card p {
+        padding: 0 1em 0 3em;
+        text-align: left;
+    }
+    
+
+    .sponsorship {
+        margin-top: 200px;
+    }
+    
+    .sponsorships img {
+        margin-top: 50px;
+        width: 20%;
+    }
+    
+    .table-logo img {
+        margin-top: 50px;
+        margin-left: 10px;
+        margin-right: 10px;
+        width: 25%;
+    }
+    
+    .media-partners {
+        margin-top: 150px;
+        margin-bottom: 200px;
+    }
+
+    .sponsorship h1 {
+        font-size: 35px;
+    }
+
+    .media-partners h1 {
+        font-size: 35px;
+    }
+
+
+    footer {
+        padding: 40px 0 40px 0;
+    }
+    
+    .socmed {
+        padding: 0 0 40px 0;
+    }
+    
+    .contact-us {
+        margin-left: 5%;
+    }
+
+    .contact-us .p-s {
+        font-size: small;
+    }
+
+    .contact-us p {
+        font-size: medium;
+    }
+
+    .basis-logo {
+        width: 35%;
+    }
+    
+    .collab-logo {
+        width: 20%;
+        margin-bottom: 30px;
+    }
+    
+    .binus-logo {
+        width: 35%;
+    }
+    
+    .logos img {
+        padding: 0 2em 0 2em;
+    }
+    
+    .contact-person {
+        margin-top: 40px;
+    }
+
+    .contact-person ul {
+        width: 50%;
+        font-size: small;
+    }
+    
+    .contact-person h4 {
+        font-size: 18px;
+    }
+
+    [class^=btn-] { 
+        width: 80%;
+    }
+
+    .btn-6 {
+        font-size: 24px;
+        line-height: 100px;
+        height: 100px;
+    }
+
+
+}
