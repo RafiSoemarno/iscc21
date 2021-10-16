@@ -1,4 +1,4 @@
-const targetDate = 'October 14 2021 23:59:59 GMT+0700';
+const targetDate = 'October 30 2021 23:59:59 GMT+0700';
 
 let days = document.getElementById('days');
 let hours = document.getElementById('hours');
@@ -19,9 +19,9 @@ const interval = setInterval(() => {
     if (t.total <= 0) {
         clearInterval(interval);
     } else {
-        days.innerHTML = t.days;
-        hours.innerHTML = t.hours;
-        minutes.innerHTML = t.minutes;
-        seconds.innerHTML = t.seconds;
+        days.innerHTML = ("0" + t.days).slice(-2);
+        hours.innerHTML = ("0" + t.hours).slice(-2);
+        minutes.innerHTML = ("0" + t.minutes).slice(-2);
+        seconds.innerHTML = ("0" + t.seconds).slice(-2);
     }
 }, 1000);
