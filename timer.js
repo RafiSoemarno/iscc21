@@ -1,4 +1,4 @@
-const targetDate = 'October 30 2021 23:59:59 GMT+0700';
+const targetDate = 'November 07 2021 00:00:00 GMT+0700';
 
 let days = document.getElementById('days');
 let hours = document.getElementById('hours');
